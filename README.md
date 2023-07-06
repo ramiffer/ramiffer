@@ -12,5 +12,5 @@
 
 
 <div align="center">
-<img src="https://assets.stickpng.com/images/61d183753a856e0004c6334c.png" width="150" height="150">
+<img src="https://www.citypng.com/public/uploads/preview/-41604282427tf4vvdvuvp.png" width="150" height="150">
 </div>
