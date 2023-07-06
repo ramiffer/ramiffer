@@ -12,5 +12,5 @@
 
 
 <div align="center">
-<img src="https://static.wikia.nocookie.net/among-us-wiki/images/7/72/Green.png/revision/latest?cb=20211122214650" width="150" height="150">
+<img src="https://static.wikia.nocookie.net/among-us-wiki/images/7/72/Green.png/revision/latest?cb=20211122214650" width="120" height="150">
 </div>
