@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&duration=3000&pause=1000&color=27F72B&center=true&width=485&lines=Ramiro+Fernandez+-+Software+Developer" alt="Typing SVG" /></a>
+<h1>Ramiro Fernandez - Software Developer</h1>
 </div>
 <h3 align="center">A passionate developer from Argentina <img src="https://static.vecteezy.com/system/resources/previews/011/571/494/original/circle-flag-of-argentina-free-png.png" width="15" height="15"> </h3>
 
