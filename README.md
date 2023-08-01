@@ -1,4 +1,4 @@
-# Me:
+<h2>Me:</h2>
 Currently studying at university and in the Coding Dojo bootcamp for Java full stack.
 
 ---
