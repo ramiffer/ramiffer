@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Me:
 Currently studying at university and in the Coding Dojo bootcamp for Java full stack.
 
 
