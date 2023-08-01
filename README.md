@@ -12,9 +12,6 @@ Currently studying at university and in the Coding Dojo bootcamp for Java full s
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramiffer&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiffer&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ramiffer&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ramiffer&icon=2&color=10)](https://visitcount.itsvg.in)
 
