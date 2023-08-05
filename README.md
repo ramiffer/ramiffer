@@ -1,4 +1,4 @@
-<h2 align="center">Me:</h2>
+<h2 align="center">About me:</h2>
 <p align="center">Currently studying at university and in the Coding Dojo bootcamp for Java full stack</p>
 
 <hr>
