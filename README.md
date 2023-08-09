@@ -1,5 +1,5 @@
 <h2 align="center">About me:</h2>
-<p align="center">Currently studying at university and in the Coding Dojo bootcamp for Java full stack.</p>
+<p align="center">Currently studying at university and in the Coding Dojo bootcamp for Java full stack</p>
 
 <hr>
 <h4 align="center">Socials:</h4>
