@@ -14,7 +14,7 @@
 <h4 align="center">GitHub Stats:</h4>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramiffer&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiffer&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiffer&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
