@@ -13,6 +13,10 @@
 
 <hr>
 
-[![CodeWars Profile](https://www.codewars.com/users/ramiffer/badges/large)](https://www.codewars.com/users/ramiffer)
+<p align="center">
+  <a href="https://www.codewars.com/users/ramiffer">
+    <img src="https://www.codewars.com/users/ramiffer/badges/large" alt="CodeWars Profile">
+  </a>
+</p>
 
 
