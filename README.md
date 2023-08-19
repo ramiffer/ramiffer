@@ -14,8 +14,8 @@
 <hr>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/ramiffer">
-    <img src="https://www.codewars.com/users/ramiffer/badges/large" alt="CodeWars Profile">
+  <a href="https://www.codewars.com/users/dArksaur0n">
+    <img src="https://www.codewars.com/users/dArksaur0n/badges/large" alt="CodeWars Profile">
   </a>
 </p>
 
